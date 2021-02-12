@@ -1,4 +1,4 @@
-# MLPP
+﻿# MLPP
 Protokol 1
-SDI
+SDI protokol
 Z-индекс
